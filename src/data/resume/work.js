@@ -44,7 +44,7 @@ const work = [
     url: '',
     startDate: '2018-02',
     endDate: '2022-08',
-    summary: 'Worked as the lead web developer for a gadgets store. managed and maintainged their online web platform.',
+    summary: 'Worked as the lead web developer for a gadgets store. managed and maintained their online web platform.',
     highlights: [
       'Developed and maintained an online ecommerce store.',
     ],
