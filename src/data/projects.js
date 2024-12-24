@@ -22,6 +22,27 @@ const data = [
       + 'The wallets, private keys are all created with npm\'s crypto and Node-RSA modules. Transaction ledger is shared across all connected peers.',
   },
   {
+    title: '(OOM) Mindfullness application',
+    subtitle: 'N/A',
+    image: '/images/projects/oom_app.png',
+    date: '2024',
+    desc: 'This mindfulness application is a modern solution for mental well-being, developed using React.js for a smooth, interactive user interface and Python-powered AI/ML for intelligent chatbot functionality.'
+    + 'Whether you\'re winding down after a long day or seeking strategies for better mental clarity, this mindfulness app offers a holistic approach to well-being. It\'s more than just an app—it\'s your personal companion in cultivating a calmer, more focused, and resilient mind.'
+    + 'It features - Mindfulness Activities, AI-Powered Mental Health Chatbot, User-Friendly Interface, Real-Time Chat Support.',
+  },
+  {
+    title: 'PHP Web Framework',
+    subtitle: 'N/A',
+    image: '/images/projects/php_web_framework.webp',
+    date: '2022',
+    desc: 'This PHP framework is a powerful, lightweight solution designed to streamline web application development. Inspired by the simplicity and efficiency of frameworks like CodeIgniter, it features a robust Model-View-Controller (MVC) architecture, providing developers with a clear separation of concerns and scalable design patterns.'
+    + 'Whether you\'re building a blog, an e-commerce platform, or an enterprise-level application, this framework provides the tools and flexibility to bring your ideas to life efficiently.'
+    + 'Ensures a modular structure, making your code clean, maintainable, and reusable.'
+    + 'Minimal overhead for fast application performance and efficient resource usage.'
+    + 'Tailor the framework to meet your project\'s specific needs through flexible configuration options.'
+    + 'Simplified and powerful routing system for handling dynamic and static URLs with ease.',
+  },
+  {
     title: 'Surveyvine.com',
     subtitle: 'A rewards and loyalties platform.',
     link: 'https://surveyvine.com',
