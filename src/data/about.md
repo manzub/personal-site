@@ -1,8 +1,6 @@
 # Intro
-
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
-
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+I am a passionate software developer with a strong foundation in full-stack development, a creative mind that thrives on intricate problem-solving, and a growing fascination with the transformative potential of AI and machine learning. Proficient in JavaScript, PHP, React, TypeScript, and C#, I excel at crafting scalable, innovative solutions that merge technical precision with user-centric design. My creativity is at the core of everything I do—whether it's designing lightweight PHP frameworks, developing AI-powered mindfulness applications, or coding intricate systems that solve complex problems. With a keen eye for detail and a deep appreciation for elegant architecture, I approach challenges with an inquisitive mindset, transforming abstract ideas into functional, impactful software.
+A First-Class graduate in Software Engineering, I bring a strong technical foundation and a collaborative spirit honed through Agile methodologies. My curiosity drives me to explore how AI/ML can revolutionize workflows, enhance human experiences, and open new frontiers in technology. I am most fulfilled when I’m pushing boundaries, innovating solutions, and creating tools that leave a meaningful mark on the world.
 
 # Some History
 
