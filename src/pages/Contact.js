@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unknown-property */
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -21,6 +22,7 @@ const Contact = () => (
       <div className="email-at">
         <p>Feel free to get in touch. You can email me at: </p>
         <EmailLink />
+        <p>You can also read some of my published articles at <a href="https://medium.com/@jeddachppc" _target="blank" rel="noreferrer">Medium.com</a></p>
       </div>
       <ContactIcons />
     </article>
