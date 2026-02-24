@@ -1,3 +1,6 @@
+/* eslint-disable max-len */
+/* eslint-disable no-trailing-spaces */
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 
