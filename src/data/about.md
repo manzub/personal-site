@@ -1,43 +1,53 @@
 # Intro
-I am a passionate software developer with a strong foundation in full-stack development, a creative mind that thrives on intricate problem-solving, and a growing fascination with the transformative potential of AI and machine learning. Proficient in JavaScript, PHP, React, TypeScript, and C#, I excel at crafting scalable, innovative solutions that merge technical precision with user-centric design. My creativity is at the core of everything I do—whether it's designing lightweight PHP frameworks, developing AI-powered mindfulness applications, or coding intricate systems that solve complex problems. With a keen eye for detail and a deep appreciation for elegant architecture, I approach challenges with an inquisitive mindset, transforming abstract ideas into functional, impactful software.
-A First-Class graduate in Software Engineering, I bring a strong technical foundation and a collaborative spirit honed through Agile methodologies. My curiosity drives me to explore how AI/ML can revolutionize workflows, enhance human experiences, and open new frontiers in technology. I am most fulfilled when I’m pushing boundaries, innovating solutions, and creating tools that leave a meaningful mark on the world.
+
+I’m a software engineer who builds things end-to-end and actually cares about how they feel to use. My background is full-stack—JavaScript, TypeScript, PHP, React, C#, and Python—but over the last few years I’ve leaned heavily into systems thinking: scalable architecture, automation, AI integrations, and building tools that remove friction from real life.
+
+I’ve built lightweight MVC-style PHP frameworks, AI-powered mindfulness applications, browser extensions (including a password manager with autofill and encryption), transcription reward platforms, simulation games, and automation-heavy scripts. I’m currently exploring deeper AI model development, agent-style systems, trading automation, and cloud engineering pathways.
+
+I prefer understanding how things work under the hood instead of stacking black boxes. If there’s a way to build it myself, I want to know how it works first.
+
+First-Class graduate in Software Engineering with a strong Agile background. Comfortable across frontend, backend, deployment, and AI API integration. I build because I’m curious. I ship because ideas are useless unfinished.
 
 # Some History
 
-- My parents put a computer in my bedroom in 2010 when I was 7. It was a Windows Vista. My favorite games were Mahjon Titans and a few other games i dont remember. It had a mechanical keyboard and a horrible mouse pointer. I accidentally broke this computer by being too curious and lied aobut this till it was completely forgotten.
-- At 13, I built my first website in HTML [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-- My parents also discovered my love for Art and got me a drawing tablet which i used to create short films.
-- I was 15 when I converted an old computer i had to an online ubuntu web server and forgot to setup security. Over the next few years, I built several more websites and converted that computer to google drive backup to save and access files over the internet. eventually the computer died.
-- more info to be recorded later.
+- My parents put a computer in my bedroom in 2010. Windows Vista. Mechanical keyboard. Awful mouse. I broke it by being too curious and stayed quiet long enough for history to move on.
+- At 13, I built my first HTML website about Gateway [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). (the computer company). It was terrible. I was proud anyway.
+- I fell in love with art early—drawing tablet, short films, sketchbooks. I still carry one.
+- At 15, I converted an old computer into an Ubuntu web server and forgot to secure it properly. Lesson learned.
+- Over the years, I built multiple websites, experimented with self-hosting, and even turned that same machine into a personal cloud backup system before it finally died.
+- Since then: full-stack apps, AI integrations, browser extensions, simulation games, trading scripts, and automation projects designed to create leverage.
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+More stories exist. Ask me in person.
 
 # I Like
 
-- Running
-- Drawing/Painting
-- Reading/Writing
-- Working out
+- Running (hybrid training mindset: strong and capable > just aesthetic)
+- Lifting / Functional strength
+- Drawing / Painting
+- Reading / Writing
 - Music
 - Summer
+- Building things that compound
 
 # Fun Facts
 
-- I have a list of thousands of ideas.
-- I almost always have a sketchbook with me and i really love to take notes
-- I added this page because many people complained that my site was just my resume.
+- I have thousands of ideas documented.
+- I almost always have a notebook with me.
+- I tend to build “version 2” of things I think could be done better.
+- I added this page because people said my site felt like a CV and nothing else.
 
 # I Dream Of
 
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- Finally completing my own book.
-- You not checking the commit history for earlier drafts of this file.
+- Building tools that create leverage for individuals.
+- Understanding AI deeply enough to build models, not just consume APIs.
+- Designing autonomous systems that work while I sleep.
+- Staying physically capable and mentally sharp.
+- Writing and finishing my own book.
+- Leaving things better than I found them.
 
 # Websites from People I Admire
-- Will complete this later
 
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
+- https://onresonant.com
+Still a work in progress
+
+If we’re friends and you think you belong here, you probably do. Submit a PR or ask me.
